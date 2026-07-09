@@ -39,24 +39,6 @@ An OSINT identifier finder that mines <b>emails, phones, social profiles, crypto
 
 <br/>
 
-<div align="center"><h3>📈 Contribution activity</h3></div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=th4r4s&bg_color=00000000&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true&custom_title=Commits%20over%20time" width="96%" alt="activity graph" />
-</div>
-
-<br/>
-
-<div align="center"><h3>📊 GitHub Analytics</h3></div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=th4r4s&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="96%" alt="trophies" />
-
-</div>
-
-<br/>
-
 <div align="center"><h3>🐍 Contribution snake</h3></div>
 
 <div align="center">
