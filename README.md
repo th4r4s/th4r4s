@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Th4r4s</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th4r4s" alt="th4r4s" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/th4r4s" target="blank"><img src="https://img.shields.io/badge/Twitter-%40th4r4s-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="th4r4s" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/th4r4s](https://github.com/th4r4s)
 
